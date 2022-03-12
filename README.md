@@ -9,8 +9,8 @@ There are many reasons why a person may not be able to communicate using speech.
 ### Features and functionality
 
 * Text to speech on click and full phrase play back
-* Multiple selectable options
-* AAC compliant colour icons/image and colour schemes
+* Intuitive UI 
+* AAC guided colour icons/image and colour schemes
 * Favourite category for authorised users
 * Upload image option for authorised users allowing custom icons
 
