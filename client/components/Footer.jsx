@@ -18,8 +18,8 @@ const Footer = () => {
           <Link pl={1}color='blue.600' href='https://www.linkedin.com/in/benjamin-hoggan-96045b123/' isExternal>
            Ben
           </Link>
-          and
-          <Link pl={1}color='blue.600' href='https://www.linkedin.com/in/scott-symon-277605225/ os' isExternal>
+           and
+          <Link pl={1}color='blue.600' href='https://www.linkedin.com/in/scottasymon/' isExternal>
             Scott
           </Link>
           <Text>
